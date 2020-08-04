@@ -1,2 +1,2 @@
-# shiny-octo-train
+# Algo
 # projets
